@@ -5,7 +5,7 @@ body{
 
 }
 .first{
-    background-color:#ffe0f7;
+    background-color:#ffaa71;
 margin: 0px;
 padding-bottom: 100px;
 padding-top: 100px;
@@ -15,8 +15,8 @@ text-align: center;
 h1{
     font-size: 90px;
     margin: 0px;
-    color:#df5e88;
-    font-family: 'Sacramento', cursive;
+    color:black;
+    font-family: 'Lobster', cursive;
 }
 p{
     color: #7d0633;
@@ -56,6 +56,7 @@ p{
 }
 .line{
     font-size: 30px;
+    color: cornsilk;
 }
 .person{
     width: 175px;
