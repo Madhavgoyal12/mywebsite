@@ -1,0 +1,122 @@
+body{
+    background-color: white;
+    margin: 0px;
+    font-family: sans-serif;
+
+}
+.first{
+    background-color:#ffe0f7;
+margin: 0px;
+padding-bottom: 100px;
+padding-top: 100px;
+text-align: center;
+
+}
+h1{
+    font-size: 90px;
+    margin: 0px;
+    color:#df5e88;
+    font-family: 'Sacramento', cursive;
+}
+p{
+    color: #7d0633;
+    font-family: 'Kufam', cursive;
+    font-weight: bold;
+    
+}
+.second{
+    padding: 20px;
+    background-color: whitesmoke;
+    
+}
+.third{
+    background-color: #1ae4c9;
+    padding: 20px;
+    text-align: center;
+    
+}
+.web{
+    text-decoration: underline;
+}
+
+.fb{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
+.twitter{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
+.Insta{
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+}
+.line{
+    font-size: 30px;
+}
+.person{
+    width: 150px;
+    height: 150px;
+}
+hr{
+    border-style: dotted none none;
+    width: 5%;
+    border-width: 10px;
+    border-color: #7c0b18;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.logo{
+    position: fixed;
+    height: 50px;
+    width: 50px;
+    left: 0px;
+}
+.computer{
+    height: 200px;
+    width: 200px;
+}
+.hobby{
+ height: 200px;
+ width: 200px;
+ float: left;
+}
+.phobby{
+    
+    padding-left: 230px;
+}
+
+.profile{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-family: 'Niconne', cursive;
+    font-size: 40px;
+    color: #0f3460;
+}
+.h3hobby1{
+    display: inline-block;
+    font-size: 30px;
+    padding-left: 30px;
+    font-family: 'IM Fell Double Pica', serif;
+    color: #5eaaa8;
+}
+.hobby1{
+    height: 200px;
+ width: 200px;
+ float: right;
+}
+.h3hobby2{
+    display: inline-block;
+    font-size: 30px;
+    text-align: left;
+    font-family:'IM Fell Double Pica', serif ;
+    color: #5eaaa8;
+}
+.skill-row{
+    padding: 30px;
+}
