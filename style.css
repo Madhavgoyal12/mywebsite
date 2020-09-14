@@ -58,16 +58,14 @@ p{
     font-size: 30px;
 }
 .person{
-    width: 150px;
-    height: 150px;
+    width: 175px;
+    height: 175px;
 }
 hr{
     border-style: dotted none none;
     width: 5%;
     border-width: 10px;
     border-color: #7c0b18;
-    padding-top: 10px;
-    padding-bottom: 10px;
 }
 .logo{
     position: fixed;
@@ -101,8 +99,8 @@ h2{
 .h3hobby1{
     display: inline-block;
     font-size: 30px;
-    padding-left: 30px;
     font-family: 'IM Fell Double Pica', serif;
+    padding-left: 30px;
     color: #5eaaa8;
 }
 .hobby1{
